@@ -1,4 +1,4 @@
-#include <stdio.c> //Import statement
+#include <stdio.h> //Import statement
 int main(int argc, char *argv[])//Main method header
 {
 	printf("Hello world!");//print statement

@@ -1,1 +1,3 @@
-CFLAGS=-Wall -g -std=c99  -lncurses
+all: *.c
+	gcc -Wall -g -o *.c
+
