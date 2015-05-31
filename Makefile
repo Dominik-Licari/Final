@@ -1,3 +1,2 @@
-all: *.c
-	gcc -Wall -g -o *.c
-
+CC = gcc
+CFLAGS = -g -Wall
