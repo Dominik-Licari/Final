@@ -1,5 +1,6 @@
-int main(int argc, char *argv[])
+#include <stdio.c> //Import statement
+int main(int argc, char *argv[])//Main method header
 {
-	puts("Hello world!");
-	return 0;
+	printf("Hello world!");//print statement
+	return 0;//program end
 }
